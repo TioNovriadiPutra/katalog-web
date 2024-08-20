@@ -1,0 +1,9 @@
+.container {
+  flex: 1;
+  align-items: center;
+}
+
+.lock {
+  width: 24px;
+  height: 24px;
+}

@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
+
+body {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+.root-container {
+  height: 100vh;
+  width: 100vw;
+  flex-direction: row;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  display: flex;
+  flex-direction: column;
+  border: none;
+  background-color: transparent;
+}
+
+h1 {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 30.24px;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 25.2px;
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20.16px;
+}
+
+h4 {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 15.12px;
+  margin: 0;
+  padding: 0;
+}
+
+h5 {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 15.12px;
+  margin: 0;
+  padding: 0;
+}
+
+h6 {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17.64px;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 13.86px;
+  margin: 0;
+  padding: 0;
+}
+
+.log {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+}
+
+.main-container {
+  flex: 1;
+  margin: 14px;
+}
+
+.scroll-container {
+  flex-grow: 1;
+  flex-basis: 0px;
+  overflow: hidden;
+  flex-direction: row;
+}
+
+.scroll-content-container {
+  flex-grow: 1;
+  flex-basis: 0px;
+  overflow-y: scroll;
+  padding-right: 4px;
+}
+
+.scroll-content-container::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scroll-content-container::-webkit-scrollbar-track {
+  background: #e8e8e8;
+  border-radius: 14px;
+}
+
+.scroll-content-container::-webkit-scrollbar-thumb {
+  background-color: #a7a7a7;
+  border-radius: 14px;
+}

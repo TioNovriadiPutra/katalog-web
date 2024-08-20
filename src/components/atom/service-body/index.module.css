@@ -1,0 +1,31 @@
+.title {
+  font-size: 20px;
+  color: #525252;
+  border-bottom: 1px solid #e8e8e8;
+  padding-bottom: 7px;
+  margin-bottom: 7px;
+}
+
+.subTitle {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 16px;
+  color: #a7a7a7;
+  line-height: 20.16px;
+  margin-bottom: 14px;
+}
+
+.bodyContainer {
+  padding: 14px;
+  border: 1px solid #e8e8e8;
+  border-radius: 9px;
+}
+
+.body {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17.64px;
+  margin: 0;
+  padding: 0;
+  color: #525252;
+}

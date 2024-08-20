@@ -1,0 +1,20 @@
+.container {
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+}
+
+.current {
+  color: #525252;
+}
+
+.menuContainer {
+  position: absolute;
+  top: 120%;
+  background-color: white;
+  border: 1px solid #e8e8e8;
+  padding: 14px;
+  gap: 14px;
+  border-radius: 9px;
+}

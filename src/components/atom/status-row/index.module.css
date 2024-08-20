@@ -1,0 +1,43 @@
+.container {
+  flex: 1;
+  align-items: center;
+}
+
+.secondContainer {
+  padding: 5px 12px 5px 12px;
+  align-items: center;
+  border-radius: 4px;
+  flex-direction: row;
+  justify-content: center;
+  gap: 8px;
+}
+
+.secondContainerOnline {
+  background-color: rgba(88, 190, 98, 0.2);
+}
+
+.secondContainerOffline {
+  background-color: rgba(216, 94, 94, 0.2);
+}
+
+.circle {
+  width: 6px;
+  height: 6px;
+  border-radius: 50px;
+}
+
+.circleOnline {
+  background-color: #58be62;
+}
+
+.circleOffline {
+  background-color: #d85e5e;
+}
+
+.labelOnline {
+  color: #58be62;
+}
+
+.labelOffline {
+  color: #d85e5e;
+}

@@ -1,0 +1,10 @@
+.container {
+  flex: 1;
+  border: 1px solid #e8e8e8;
+  border-radius: 8px;
+  padding: 18px 0 14px 14px;
+}
+
+.title {
+  color: #525252;
+}

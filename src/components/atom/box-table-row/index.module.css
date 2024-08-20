@@ -1,0 +1,22 @@
+.container {
+  flex-direction: row;
+  gap: 14px;
+  padding: 16px 0 17px 0;
+}
+
+.containerActive {
+  background-color: #f7f7f7;
+}
+
+.label {
+  color: #525252;
+}
+
+.labelLarge {
+  flex: 2;
+}
+
+.labelMedium {
+  flex: 1;
+  text-align: center;
+}

@@ -1,0 +1,25 @@
+.buttonContainer {
+  display: flex;
+  flex-direction: column;
+  height: 78px;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  gap: 8px;
+}
+
+.buttonContainerActive {
+  background-color: #f7f7f7;
+}
+
+.label {
+  text-align: center;
+}
+
+.labelActive {
+  color: #525252;
+}
+
+.labelInactive {
+  color: #a7a7a7;
+}

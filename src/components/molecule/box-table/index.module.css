@@ -1,0 +1,9 @@
+.container {
+  flex: 1;
+  margin-top: 24px;
+}
+
+.scrollContainer {
+  margin-left: -4px;
+  margin-right: 4px;
+}

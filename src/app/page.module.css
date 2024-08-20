@@ -1,0 +1,13 @@
+.container {
+  flex-direction: row;
+  gap: 14px;
+}
+
+.leftContainer {
+  flex: 2;
+}
+
+.rightContainer {
+  flex: 1;
+  gap: 14px;
+}

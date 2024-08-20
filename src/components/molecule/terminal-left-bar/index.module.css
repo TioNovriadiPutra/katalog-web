@@ -1,0 +1,8 @@
+.container {
+  width: 58px;
+  background-color: white;
+  border-width: 1px 1px 0px 1px;
+  border-style: solid;
+  border-color: #e8e8e8;
+  justify-content: space-between;
+}

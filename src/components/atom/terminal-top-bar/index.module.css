@@ -1,0 +1,13 @@
+.container {
+  border-bottom-width: 1px;
+  border-bottom-color: #e8e8e8;
+  border-bottom-style: solid;
+  height: 58px;
+  padding: 0 14px 0 14px;
+  justify-content: center;
+  background-color: white;
+}
+
+.title {
+  color: #525252;
+}

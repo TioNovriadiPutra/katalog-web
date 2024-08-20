@@ -1,0 +1,35 @@
+.container {
+  padding: 14px 4px 14px 14px;
+}
+
+.scrollContainer {
+  gap: 14px;
+  padding-bottom: 60px;
+}
+
+.row {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.timestampContainer {
+  flex: 1;
+  min-width: 0;
+}
+
+.descContainer {
+  width: 316.5px;
+}
+
+.text {
+  color: #525252;
+}
+
+.timestamp {
+  white-space: nowrap;
+}
+
+.desc {
+  overflow-wrap: break-word;
+}

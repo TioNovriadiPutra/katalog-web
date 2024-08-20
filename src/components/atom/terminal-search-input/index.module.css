@@ -1,0 +1,29 @@
+.container {
+  position: absolute;
+  bottom: 14px;
+  left: 72px;
+  right: 14px;
+  background-color: white;
+  padding: 14px;
+  border-radius: 10px;
+  border: 1px solid #e8e8e8;
+  gap: 14px;
+  flex-direction: row;
+  align-items: center;
+}
+
+.icon {
+  color: #525252;
+}
+
+.search {
+  border: none;
+  outline: none;
+  margin: 0;
+  padding: 0;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  flex: 1;
+}

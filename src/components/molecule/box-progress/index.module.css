@@ -1,0 +1,17 @@
+.main {
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  margin-top: 6px;
+  width: auto;
+}
+
+.progress {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 40.32px;
+}

@@ -1,0 +1,14 @@
+.container {
+  width: 58px;
+  height: 58px;
+  border-top-width: 1px;
+  border-top-color: #e8e8e8;
+  border-top-style: solid;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+}
